@@ -1,4 +1,4 @@
-//Conner Wilson
+//Conner Wilson , Kelvin Wenzen
 public class runner {
     public static void main(String[] args){
     employee a = new employee("john", "jack", "111-11-1111");
